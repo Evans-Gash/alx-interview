@@ -17,8 +17,6 @@ Create a Python function `pascal_triangle(n)` that returns a list of lists of in
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/alx-interview.git
 ```
 
 2. Navigate to the project directory:
