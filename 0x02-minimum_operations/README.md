@@ -49,14 +49,8 @@ Min number of operations to reach 4 characters: 4
 Min number of operations to reach 12 characters: 7
 ```
 
-## Deadline and Auto Review
-
-The project is scheduled to start on Jan 15, 2024, at 6:00 AM, and it must be completed by Jan 19, 2024, at 6:00 AM. An auto review will be launched at the deadline to assess the compliance of your code with the project requirements.
-
 ## Repository Information
 
 - **GitHub repository:** [alx-interview](https://github.com/Evans-Gash/alx-interview)
 - **Directory:** 0x02-minimum_operations
 - **File:** 0-minoperations.py
-
-Evans_Gash
